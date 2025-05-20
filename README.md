@@ -6,7 +6,7 @@
 
 - Matheus Santana.
 
-# AWS Re/Start R2 <img src="https://img.shields.io/badge/Concluído-8A2BE2"/>
+# AWS Re/Start R2 <img src="https://img.shields.io/badge/Concluído-1E8A2B"/>
 
 ## 170- Lab - Criar um site no S3
 
